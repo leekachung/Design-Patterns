@@ -10,6 +10,8 @@
 # 创建型
 > 在软件工程中，创建型设计模式是处理对象创建机制的设计模式，试图以适当的方式来创建对象。对象创建的基本形式可能会带来设计问题，亦或增加了设计的复杂度。创建型设计模式通过控制这个对象的创建方式来解决此问题。
 
+- [抽象工厂模式 Abstract Factory](https://github.com/leekachung/Design-Patterns/tree/master/php/Abstract-Factory)
+
 # 结构型
 > 在软件工程中，结构型设计模式是通过识别实体之间关系来简化设计的设计模式。
 
