@@ -12,6 +12,8 @@
 
 - [抽象工厂模式 Abstract Factory](https://github.com/leekachung/Design-Patterns/tree/master/php/Abstract-Factory)
 - [建造者模式 Builder](https://github.com/leekachung/Design-Patterns/tree/master/php/Builder)
+- [工厂方法模式 Factory Method](https://github.com/leekachung/Design-Patterns/tree/master/php/Factory-Method)
+
 
 # 结构型
 > 在软件工程中，结构型设计模式是通过识别实体之间关系来简化设计的设计模式。
